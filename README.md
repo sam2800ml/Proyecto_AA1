@@ -1,10 +1,15 @@
 Taller final prediccion y clasificacion en la industria azucarera
+A00417411 Alejandra Forero Rodríguez
+A00423284 Santiago Aristizabal Morales
+A00417017 Jose Luis Realpe Muñoz
+
 1. Regresion -> predecir dos variables claves
     - Toneladas de caña por hectarea (TCH)
     - Porcentaje de sacarosa
     - Instrucciones: Realizar un Eda, identificar variables relevantes, visualizar la distribucion de las variables
     - Ajustar modelos de regresion lineal para la prediccion, analizar las significancias de las variables, interpretar los coeficientes y evaluar supuestos
     - Utilizar tecnicas de validacion, uar diferentes metricas de evaluacion
+    
 2. Diccionario Diccionario de Datos – HISTORICO_SUERTES
 # 📖 Diccionario de Datos - HISTORICO_SUERTES
 
